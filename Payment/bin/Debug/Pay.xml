@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PaymentAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PaymentPerDay>15</PaymentPerDay>
+  <NumOfDay>30</NumOfDay>
+  <FinePerDay>5</FinePerDay>
+  <DaysOfDelay>3</DaysOfDelay>
+  <AmountDue>0</AmountDue>
+  <Fine>0</Fine>
+  <Total>0</Total>
+</PaymentAccount>

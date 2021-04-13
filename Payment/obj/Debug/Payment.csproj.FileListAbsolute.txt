@@ -1,0 +1,7 @@
+C:\Users\SaniaGos\source\repos\Payment\Payment\bin\Debug\Payment.exe.config
+C:\Users\SaniaGos\source\repos\Payment\Payment\bin\Debug\Payment.exe
+C:\Users\SaniaGos\source\repos\Payment\Payment\bin\Debug\Payment.pdb
+C:\Users\SaniaGos\source\repos\Payment\Payment\obj\Debug\Payment.csprojAssemblyReference.cache
+C:\Users\SaniaGos\source\repos\Payment\Payment\obj\Debug\Payment.csproj.CoreCompileInputs.cache
+C:\Users\SaniaGos\source\repos\Payment\Payment\obj\Debug\Payment.exe
+C:\Users\SaniaGos\source\repos\Payment\Payment\obj\Debug\Payment.pdb
