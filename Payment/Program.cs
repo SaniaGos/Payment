@@ -20,7 +20,7 @@ namespace Payment
 
             PaymentAccount.IsCalculate = false;                         // обрахунок false
             PaymentAccount new2Account = DoSerialize.Read("Pay.xml");   // зчитуємо клас з файлу без обрахунків
-            View.Show(new2Account);                                     // без обрахунків
+            View.Show(new2Account);                                     // виводим без обрахунків
 
             Console.ReadKey();
         }
